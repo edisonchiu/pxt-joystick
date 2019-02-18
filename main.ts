@@ -167,7 +167,7 @@ namespace joystick {
 	
     //% shim=joystick::show
     export function show(): number { 
-        return;
+        return 0;
     }
 
     //% help=radio/on-data-packet-received

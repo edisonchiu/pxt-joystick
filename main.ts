@@ -166,7 +166,7 @@ namespace joystick {
     }
 	
     //% shim=joystick::show
-    export function show(): number { 
+    export function show(a: number): number { 
         return 0;
     }
 

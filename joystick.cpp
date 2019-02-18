@@ -33,7 +33,7 @@ namespace joystick {
         }
     }
 	
-	int16_t show() {
+	int16_t show(int16_t a) {
 		return 16;
 	}
 }

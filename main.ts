@@ -165,6 +165,7 @@ namespace joystick {
         return;
     }
 	
+	//% blockId=show block="show |%a|" 
     //% shim=joystick::show
     export function show(a: number): number { 
         return 0;

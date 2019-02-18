@@ -35,6 +35,9 @@ which is an ideal tool for programming from entry and even to advanced programmi
 ![image](https://github.com/DFRobot/pxt-joystick/blob/master/image/ispressedZ.png)
 
 
+```package
+joystick=github:edisonchiu/pxt-joystick
+```
 
 
 ## License

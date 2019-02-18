@@ -18,4 +18,5 @@
   "joystick.getXY|block": "摇杆|%pin|的值",
   "joystick.action|block": "摇杆| %pin | 幅度",
 	"joystick.led|block": "LED|%index|"
+	"joystick.show|block": "show"
 }

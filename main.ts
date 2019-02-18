@@ -164,6 +164,11 @@ namespace joystick {
     export function Shake(a: Action): void { 
         return;
     }
+	
+    //% shim=joystick::show
+    export function show(): number { 
+        return;
+    }
 
     //% help=radio/on-data-packet-received
     //% mutate=objectdestructuring

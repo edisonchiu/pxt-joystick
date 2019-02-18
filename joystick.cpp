@@ -32,4 +32,8 @@ namespace joystick {
             create_fiber(forever_stubdf, (void*)a);
         }
     }
+	
+	int16_t show() {
+		return 16;
+	}
 }
